@@ -1,2 +1,2 @@
 # 数秘術占い　for basic for Android
-#Ver20210331
+# Ver20210331
