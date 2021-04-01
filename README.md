@@ -1,4 +1,4 @@
-# 数秘術占い　for basic for Android Runtime
+# 数秘術占い　for Basic for Android Runtime
 # Ver20210331
 # 計算ルール
 # 例：1973年11月22日生まれの場合
