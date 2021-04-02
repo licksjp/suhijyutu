@@ -1,4 +1,4 @@
-# 数秘術占い　for Basic for Android Runtime
+# 数秘術占い　for Basic for Android 
 
 # ●バージョン履歴
 # Ver20210331　α版
