@@ -1,4 +1,5 @@
 # 数秘術占い　for Basic for Android Runtime
+# ●バージョン履歴
 # Ver20210331　α版
 # Ver20210402 β版
 # 計算ルール
