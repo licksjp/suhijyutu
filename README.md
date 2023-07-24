@@ -25,7 +25,7 @@
 # ●.参考文献1
 
 # Title:名前で運命の全てが分かる　数秘術
-# Authoor:Carol Adrinne,Phd
+# Author:Carol Adrinne,Phd
 # 出版社:幻冬舎
 # HP:www.carolAdrinne.jp/
 # ISBN:978-4-344-01394-0
