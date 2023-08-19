@@ -59,7 +59,7 @@
 
 # ●.参考文献1
 
-# Title:名前で運命の全てが分かる　数秘術
+# 1.Title:名前で運命の全てが分かる　数秘術
 # Author:Carol Adrinne,Phd
 # 出版社:幻冬舎
 # HP:www.carolAdrinne.jp/
@@ -68,7 +68,7 @@
 
 # ●.参考文献2 
 
-# Title:ユダヤの秘儀　大占術占術
+# 2.Title:ユダヤの秘儀　大占術占術
 # 著者:浅野八郎
 # 出版社:NON BOOK
 # ISBN:4-396-10364-6
