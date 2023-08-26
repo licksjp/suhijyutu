@@ -75,17 +75,22 @@
 # ISBN:4-396-10364-6
 # 定価:829円 + 税
 
-# ●.English Explain
-# ●Calculation rules for Kabara.
+# ●.English Explanation:
+# Calculation Rules for Kabara
 # Example: If you were born on November 22, 1973
-# 1+9+7+3+1+1+2+2==>26 ==> 2+6=8
-# Hence, 8 is the angel number.
+# 1 + 9 + 7 + 3 + 1 + 1 + 2 + 2 = 26
+# 2 + 6 = 8
+# Therefore, 8 is the angel number.
 
-# Description of Bird's Eye Grid.
-# Bird's Eye Grid is a type of numerology that finds your type from your name.
-# 1. put your name in the alphabet.
-# 2. Use uppercase letters, but in this application, even if you type in lowercase letters.
-# the name will be capitalized.
+# Description of Bird's Eye Grid:
+# Bird's Eye Grid is a form of numerology that identifies your type based on your name.
+# 1. Write down your name in alphabetical order.
+# 2. Use uppercase letters. However, in this application, even if you enter lowercase letters, 
+# the name will be automatically capitalized.
+
+# Refer to the provided table while considering the case of Tokugawa Ieyasu.
+
+# The resulting value will be automatically calculated by this calculator.
 # 1:A、J、S
 # 2:B、K、T
 # 3:C、L、U
