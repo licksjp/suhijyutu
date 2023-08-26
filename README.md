@@ -58,7 +58,7 @@
 # この計算を自動で入力する計算機です。
 
 
-# ●.参考文献1
+# ●.参考文献1(Reference Book1)
 
 # 1.Title:名前で運命の全てが分かる　数秘術
 # Author:Carol Adrinne,Phd
@@ -67,7 +67,7 @@
 # ISBN:978-4-344-01394-0
 # 定価:1500円 + 税
 
-# ●.参考文献2 
+# ●.参考文献2 (Reference Book2)
 
 # 2.Title:ユダヤの秘儀　大占術占術
 # 著者:浅野八郎
@@ -81,7 +81,32 @@
 # 1+9+7+3+1+1+2+2==>26 ==> 2+6=8
 # Hence, 8 is the angel number.
 
+# Description of Bird's Eye Grid.
+# Bird's Eye Grid is a type of numerology that finds your type from your name.
+# 1. put your name in the alphabet.
+# 2. Use uppercase letters, but in this application, even if you type in lowercase letters.
+# the name will be capitalized.
+# 1:A、J、S
+# 2:B、K、T
+# 3:C、L、U
+# 4:D、M、V
+# 5:E、N、W
+# 6:F、O、X
+# 7:G、P、Y
+# 8:H、Q、Z
+# 9:I、R
 
+ # Using this table as a reference, think in terms of Tokugawa Ieyasu.
 
+# Example:徳川家康:Tokugawa Ieyasu => TOKUGAWAIEYASU
+# T(2),O(6),K(2),U(3),G(7),A(1),W(5),A(1) I(9),E(5),Y(7),A(1),S(1),U(3)
+
+# Bird's eye grid is,
+# 3(2),6(1),9(1)
+# 2(2),5(2),8(0)
+# 1(4),4(0),7(2)
+# The result will be.
+
+# This calculator automatically inputs this calculation.
 
 
