@@ -75,7 +75,7 @@
 # ISBN:4-396-10364-6
 # 定価:829円 + 税
 
-# English Explain
+#●.English Explain
 # ●Calculation rules for Kabara.
 # Example: If you were born on November 22, 1973
 # 1+9+7+3+1+1+2+2==>26 ==> 2+6=8
